@@ -18,7 +18,8 @@ Markdown Presentation Ecosystem
 
 Split pages by horizontal ruler (`---`). It's very simple! :satisfied:
 
-```markdown
+---
+
 # Мушкет - Появление: Начало XVI века
 
 foobar
@@ -28,10 +29,11 @@ foobar
 # Испанская Пехота - Первая Половина XVII века
 
 foobar
-```
 
 ---
 
 # Кирасир Франции - 1812 год
 
 crecy
+
+---
