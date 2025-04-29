@@ -1,0 +1,12 @@
+{
+  "name": "slides",
+  "module": "src/index.ts",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "marp public/index.md"
+  },
+  "dependencies": {
+    "@marp-team/marp-cli": "^4.1.2"
+  }
+}
