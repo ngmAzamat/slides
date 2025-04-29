@@ -1,9 +1,4 @@
 ---
-# theme: gaia
-# _class: lead
-# paginate: true
-# backgroundColor: #fff
-# backgroundImage: url('https://marp.app/assets/hero-background.svg')
 ---
 
 # Ручница - Появление: Конец XIV века
