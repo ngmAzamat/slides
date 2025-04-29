@@ -1,39 +1,37 @@
 ---
-theme: gaia
-_class: lead
-paginate: true
-backgroundColor: #fff
-backgroundImage: url('https://marp.app/assets/hero-background.svg')
+# theme: gaia
+# _class: lead
+# paginate: true
+# backgroundColor: #fff
+# backgroundImage: url('https://marp.app/assets/hero-background.svg')
 ---
 
 ![bg left:40% 80%](https://marp.app/assets/marp.svg)
 
-# **Marp**
+# Ручница - Появление: Конец XIV века
 
 Markdown Presentation Ecosystem
 
-https://marp.app/
-
 ---
 
-# How to write slides
+# Аркебуза - Появление: Начало XV века
 
 Split pages by horizontal ruler (`---`). It's very simple! :satisfied:
 
 ```markdown
-# Slide 1
+# Мушкет - Появление: Начало XVI века
 
 foobar
 
 ---
 
-# Slide 2
+# Испанская Пехота - Первая Половина XVII века
 
 foobar
 ```
 
 ---
 
-# Slide 2
+# Кирасир Франции - 1812 год
 
 crecy
