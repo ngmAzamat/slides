@@ -1,9 +1,6 @@
----
----
-
 # Ручница - Появление: Конец XIV века
 
-Markdown Presentation Ecosystem
+<!-- Markdown Presentation Ecosystem -->
 
 ---
 
