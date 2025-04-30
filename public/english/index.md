@@ -5,4 +5,4 @@
 | I spend a time with | я провожу время с  |
 | I take a nap        | я вздемнуть        |
 | I read magazins     | я читаю журнал     |
-| I play hopscoth     | я играю в классики |
+| I play hopscotch    | я играю в классики |
